@@ -18,3 +18,5 @@ This repository analyzes consumer segments for Bengaluru’s cloud-kitchen ecosy
 ## Notes
 - Data is simulated for a realistic demo.
 - Update CSVs with your own survey responses for better accuracy.
+
+- Deployed - https://aditi1968-cloudkitchen-consumer-insight-appstreamlit-app-mwfzag.streamlit.app/

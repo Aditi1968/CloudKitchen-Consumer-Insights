@@ -1,0 +1,37 @@
+// ---------- Replace the folderPath below with your local path to the project ----------
+// Example on Windows:  "C:\Users\<you>\Downloads\TOI-Consumer-Insights-Project\"
+let
+    folderPath = "C:\Path\To\TOI-Consumer-Insights-Project\",
+    surveyPath = folderPath & "data\raw_survey_data.csv",
+    trendsPath = folderPath & "data\ga_mock_trends.csv",
+
+    // Survey
+    SurveySource = Csv.Document(File.Contents(surveyPath),[Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    SurveyPromoted = Table.PromoteHeaders(SurveySource, [PromoteAllScalars=true]),
+    SurveyChanged = Table.TransformColumnTypes(SurveyPromoted,{
+        {"respondent_id", Int64.Type},
+        {"city", type text},
+        {"age_group", type text},
+        {"order_frequency_per_week", Int64.Type},
+        {"avg_spend_inr", Int64.Type},
+        {"cuisine_preference", type text},
+        {"order_time", type text},
+        {"uses_subscription", Int64.Type},
+        {"prefers_veg", Int64.Type},
+        {"orders_via", type text}
+    }),
+
+    // Trends
+    TrendsSource = Csv.Document(File.Contents(trendsPath),[Delimiter=",", Columns=3, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    TrendsPromoted = Table.PromoteHeaders(TrendsSource, [PromoteAllScalars=true]),
+    TrendsChanged = Table.TransformColumnTypes(TrendsPromoted,{
+        {"week_start", type date},
+        {"keyword", type text},
+        {"search_volume_index", Int64.Type}
+    })
+
+in
+    [
+        survey = SurveyChanged,
+        trends = TrendsChanged
+    ]

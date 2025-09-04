@@ -1,0 +1,23 @@
+// Measures for the Cloud Kitchen report
+
+Avg Spend = AVERAGE(survey[avg_spend_inr])
+
+Orders/Week = AVERAGE(survey[order_frequency_per_week])
+
+LateNight Orders = CALCULATE([Orders/Week], survey[order_time] = "Late Night")
+
+Dinner Orders = CALCULATE([Orders/Week], survey[order_time] = "Dinner")
+
+LateNight Share = DIVIDE([LateNight Orders], [Dinner Orders])
+
+Veg Share % = DIVIDE(SUM(survey[prefers_veg]), COUNTROWS(survey))
+
+Subscription % = DIVIDE(SUM(survey[uses_subscription]), COUNTROWS(survey))
+
+Top Cuisine (by Count) = 
+VAR T =
+    TOPN(1, SUMMARIZE(survey, survey[cuisine_preference], "cnt", COUNTROWS(survey)), [cnt], DESC)
+RETURN
+    MAXX(T, survey[cuisine_preference])
+
+Search Volume = SUM(trends[search_volume_index])

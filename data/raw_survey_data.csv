@@ -1,0 +1,251 @@
+respondent_id,city,age_group,order_frequency_per_week,avg_spend_inr,cuisine_preference,order_time,uses_subscription,prefers_veg,orders_via
+1,Bengaluru,25-34,4,308,South Indian,Breakfast,0,1,Swiggy
+2,Bengaluru,25-34,4,449,North Indian,Breakfast,0,1,Zomato
+3,Bengaluru,25-34,3,300,South Indian,Dinner,0,0,Swiggy
+4,Bengaluru,35-44,4,452,Chinese,Lunch,0,0,Direct App
+5,Bengaluru,18-24,4,297,South Indian,Lunch,0,0,Swiggy
+6,Bengaluru,35-44,2,335,Continental,Dinner,0,0,Direct App
+7,Bengaluru,25-34,4,157,North Indian,Dinner,0,0,Swiggy
+8,Bengaluru,35-44,1,326,South Indian,Late Night,0,1,Zomato
+9,Bengaluru,25-34,2,346,South Indian,Lunch,1,1,Zomato
+10,Bengaluru,25-34,3,199,Chinese,Lunch,0,1,Zomato
+11,Bengaluru,25-34,5,300,Fast Food,Late Night,0,0,Direct App
+12,Bengaluru,25-34,4,198,Healthy,Breakfast,0,1,Zomato
+13,Bengaluru,25-34,3,329,Healthy,Dinner,0,0,Zomato
+14,Bengaluru,35-44,1,415,Fast Food,Dinner,0,0,Direct App
+15,Bengaluru,18-24,3,231,Chinese,Late Night,0,0,Swiggy
+16,Bengaluru,18-24,3,248,Fast Food,Lunch,0,0,WhatsApp
+17,Bengaluru,25-34,3,319,Healthy,Late Night,0,1,Direct App
+18,Bengaluru,35-44,2,416,South Indian,Lunch,0,0,Direct App
+19,Bengaluru,45-54,0,540,Chinese,Dinner,0,1,Zomato
+20,Bengaluru,18-24,6,343,Chinese,Dinner,1,0,Swiggy
+21,Bengaluru,25-34,4,394,North Indian,Dinner,0,1,Direct App
+22,Bengaluru,18-24,3,149,Chinese,Lunch,0,1,Swiggy
+23,Bengaluru,45-54,2,360,North Indian,Dinner,0,1,Zomato
+24,Bengaluru,18-24,3,188,Chinese,Late Night,0,0,Zomato
+25,Bengaluru,25-34,4,287,Fast Food,Dinner,0,1,WhatsApp
+26,Bengaluru,18-24,3,302,South Indian,Lunch,0,0,Zomato
+27,Bengaluru,18-24,5,325,North Indian,Dinner,0,0,Direct App
+28,Bengaluru,18-24,3,238,Fast Food,Lunch,0,0,WhatsApp
+29,Bengaluru,18-24,4,328,South Indian,Dinner,0,1,Direct App
+30,Bengaluru,25-34,3,304,Fast Food,Dinner,0,1,Swiggy
+31,Bengaluru,18-24,3,176,Healthy,Dinner,0,0,WhatsApp
+32,Bengaluru,18-24,5,354,Chinese,Lunch,1,0,Swiggy
+33,Bengaluru,18-24,4,300,Healthy,Late Night,1,1,Zomato
+34,Bengaluru,18-24,5,315,North Indian,Dinner,0,0,WhatsApp
+35,Bengaluru,18-24,5,283,Continental,Dinner,1,0,WhatsApp
+36,Bengaluru,18-24,6,195,Continental,Lunch,0,0,Direct App
+37,Bengaluru,18-24,4,255,Chinese,Dinner,1,0,Swiggy
+38,Bengaluru,35-44,1,479,North Indian,Breakfast,1,0,Zomato
+39,Bengaluru,25-34,4,321,North Indian,Breakfast,0,0,Direct App
+40,Bengaluru,45-54,1,255,Fast Food,Lunch,0,0,Direct App
+41,Bengaluru,25-34,3,383,Continental,Late Night,0,1,Swiggy
+42,Bengaluru,18-24,4,230,South Indian,Lunch,1,1,Zomato
+43,Bengaluru,25-34,4,418,Healthy,Lunch,1,1,Swiggy
+44,Bengaluru,25-34,4,346,Continental,Dinner,0,1,Direct App
+45,Bengaluru,18-24,5,272,Chinese,Lunch,0,1,Direct App
+46,Bengaluru,18-24,4,307,South Indian,Dinner,0,1,Swiggy
+47,Bengaluru,18-24,4,234,South Indian,Dinner,0,1,Direct App
+48,Bengaluru,18-24,5,239,Fast Food,Dinner,0,0,Zomato
+49,Bengaluru,25-34,2,349,Chinese,Late Night,0,0,Direct App
+50,Bengaluru,25-34,3,295,Continental,Late Night,0,0,Zomato
+51,Bengaluru,25-34,4,305,Chinese,Lunch,1,1,Zomato
+52,Bengaluru,45-54,2,197,North Indian,Lunch,1,0,WhatsApp
+53,Bengaluru,18-24,3,358,South Indian,Dinner,1,1,Zomato
+54,Bengaluru,18-24,4,142,North Indian,Dinner,1,1,Zomato
+55,Bengaluru,18-24,3,171,South Indian,Late Night,1,1,Zomato
+56,Bengaluru,18-24,4,432,South Indian,Lunch,1,1,Direct App
+57,Bengaluru,25-34,3,345,Fast Food,Dinner,1,0,Swiggy
+58,Bengaluru,18-24,4,177,North Indian,Late Night,1,0,Swiggy
+59,Bengaluru,25-34,4,222,Healthy,Lunch,0,1,Swiggy
+60,Bengaluru,25-34,3,385,South Indian,Dinner,1,0,Zomato
+61,Bengaluru,25-34,3,437,Fast Food,Breakfast,0,0,Swiggy
+62,Bengaluru,25-34,5,438,South Indian,Lunch,0,0,Direct App
+63,Bengaluru,25-34,3,326,Fast Food,Lunch,0,1,Zomato
+64,Bengaluru,25-34,3,398,Chinese,Lunch,0,0,WhatsApp
+65,Bengaluru,35-44,4,462,South Indian,Dinner,0,1,WhatsApp
+66,Bengaluru,35-44,3,345,Fast Food,Late Night,0,0,Direct App
+67,Bengaluru,18-24,5,159,South Indian,Late Night,0,1,Zomato
+68,Bengaluru,18-24,3,368,Chinese,Lunch,1,0,WhatsApp
+69,Bengaluru,35-44,2,349,Fast Food,Dinner,0,0,Zomato
+70,Bengaluru,25-34,4,215,Fast Food,Breakfast,1,0,WhatsApp
+71,Bengaluru,18-24,4,334,Fast Food,Late Night,0,0,Swiggy
+72,Bengaluru,25-34,3,302,Fast Food,Late Night,1,0,WhatsApp
+73,Bengaluru,25-34,2,421,Chinese,Dinner,1,0,Zomato
+74,Bengaluru,35-44,4,297,South Indian,Dinner,0,1,WhatsApp
+75,Bengaluru,25-34,4,423,North Indian,Lunch,0,0,Direct App
+76,Bengaluru,35-44,3,460,North Indian,Breakfast,0,0,Zomato
+77,Bengaluru,18-24,4,174,Chinese,Dinner,0,0,WhatsApp
+78,Bengaluru,25-34,5,432,Continental,Dinner,0,1,WhatsApp
+79,Bengaluru,25-34,4,238,South Indian,Late Night,0,1,WhatsApp
+80,Bengaluru,25-34,3,223,Healthy,Dinner,1,0,Direct App
+81,Bengaluru,25-34,4,427,South Indian,Breakfast,0,0,Zomato
+82,Bengaluru,35-44,3,469,Continental,Late Night,0,1,Swiggy
+83,Bengaluru,18-24,3,270,Healthy,Dinner,0,0,Direct App
+84,Bengaluru,18-24,3,205,Fast Food,Lunch,0,1,WhatsApp
+85,Bengaluru,18-24,5,243,North Indian,Breakfast,0,1,Direct App
+86,Bengaluru,18-24,5,297,Continental,Breakfast,0,0,Zomato
+87,Bengaluru,18-24,6,266,North Indian,Breakfast,0,1,Zomato
+88,Bengaluru,25-34,2,317,South Indian,Lunch,0,1,Swiggy
+89,Bengaluru,35-44,2,472,South Indian,Lunch,0,1,WhatsApp
+90,Bengaluru,25-34,4,308,North Indian,Dinner,0,1,Swiggy
+91,Bengaluru,25-34,3,382,Fast Food,Lunch,1,1,Swiggy
+92,Bengaluru,25-34,3,386,South Indian,Dinner,0,0,WhatsApp
+93,Bengaluru,35-44,4,347,Continental,Lunch,0,1,Zomato
+94,Bengaluru,25-34,3,276,Continental,Dinner,0,1,WhatsApp
+95,Bengaluru,25-34,4,327,Chinese,Late Night,0,0,Swiggy
+96,Bengaluru,18-24,5,383,Fast Food,Dinner,0,1,Direct App
+97,Bengaluru,18-24,4,202,North Indian,Late Night,0,1,Direct App
+98,Bengaluru,18-24,4,179,Healthy,Dinner,0,0,Zomato
+99,Bengaluru,18-24,4,299,Chinese,Dinner,1,1,WhatsApp
+100,Bengaluru,25-34,5,409,South Indian,Breakfast,0,0,Direct App
+101,Bengaluru,25-34,2,240,Chinese,Dinner,1,0,WhatsApp
+102,Bengaluru,18-24,5,295,North Indian,Lunch,0,0,Zomato
+103,Bengaluru,18-24,5,529,South Indian,Dinner,0,1,Direct App
+104,Bengaluru,45-54,2,544,South Indian,Late Night,0,0,Zomato
+105,Bengaluru,18-24,5,301,Chinese,Late Night,0,0,WhatsApp
+106,Bengaluru,18-24,3,154,South Indian,Breakfast,0,0,Swiggy
+107,Bengaluru,18-24,4,180,North Indian,Late Night,0,0,Swiggy
+108,Bengaluru,18-24,6,119,Continental,Late Night,0,0,WhatsApp
+109,Bengaluru,25-34,3,326,South Indian,Dinner,0,0,WhatsApp
+110,Bengaluru,25-34,3,291,Chinese,Dinner,0,0,Swiggy
+111,Bengaluru,45-54,3,434,North Indian,Lunch,0,0,Zomato
+112,Bengaluru,25-34,4,211,South Indian,Lunch,0,0,Swiggy
+113,Bengaluru,18-24,6,389,Fast Food,Dinner,0,1,Direct App
+114,Bengaluru,35-44,4,458,Fast Food,Dinner,1,0,Zomato
+115,Bengaluru,25-34,4,357,Healthy,Late Night,0,0,Direct App
+116,Bengaluru,25-34,5,266,Continental,Late Night,0,0,Direct App
+117,Bengaluru,25-34,3,178,Chinese,Late Night,0,0,Swiggy
+118,Bengaluru,35-44,2,537,Fast Food,Dinner,0,0,Swiggy
+119,Bengaluru,45-54,1,385,South Indian,Dinner,0,1,WhatsApp
+120,Bengaluru,25-34,4,182,South Indian,Dinner,1,0,WhatsApp
+121,Bengaluru,45-54,2,559,South Indian,Dinner,0,0,Zomato
+122,Bengaluru,25-34,4,460,South Indian,Dinner,1,1,Swiggy
+123,Bengaluru,25-34,2,476,South Indian,Lunch,1,0,Swiggy
+124,Bengaluru,25-34,3,211,South Indian,Dinner,0,0,WhatsApp
+125,Bengaluru,25-34,3,479,North Indian,Dinner,0,1,WhatsApp
+126,Bengaluru,35-44,2,291,North Indian,Dinner,0,1,Zomato
+127,Bengaluru,25-34,2,311,South Indian,Breakfast,0,1,Swiggy
+128,Bengaluru,25-34,2,209,Healthy,Lunch,0,1,Direct App
+129,Bengaluru,25-34,5,432,Chinese,Dinner,0,0,Zomato
+130,Bengaluru,45-54,1,368,Healthy,Dinner,1,0,WhatsApp
+131,Bengaluru,25-34,4,519,South Indian,Dinner,0,1,WhatsApp
+132,Bengaluru,35-44,3,466,Chinese,Dinner,0,1,WhatsApp
+133,Bengaluru,25-34,3,325,North Indian,Lunch,0,0,Zomato
+134,Bengaluru,35-44,3,391,South Indian,Dinner,0,1,WhatsApp
+135,Bengaluru,25-34,2,428,Healthy,Dinner,1,0,Swiggy
+136,Bengaluru,18-24,3,388,South Indian,Late Night,0,1,Swiggy
+137,Bengaluru,25-34,3,370,Fast Food,Dinner,0,1,Zomato
+138,Bengaluru,18-24,4,216,South Indian,Dinner,0,0,Swiggy
+139,Bengaluru,35-44,2,333,Healthy,Late Night,0,0,WhatsApp
+140,Bengaluru,35-44,2,460,North Indian,Breakfast,0,1,Zomato
+141,Bengaluru,35-44,3,314,North Indian,Dinner,0,1,WhatsApp
+142,Bengaluru,18-24,5,281,North Indian,Lunch,0,0,Direct App
+143,Bengaluru,25-34,4,373,Chinese,Lunch,0,1,Zomato
+144,Bengaluru,18-24,3,220,South Indian,Dinner,0,0,Zomato
+145,Bengaluru,18-24,5,302,Chinese,Dinner,0,1,WhatsApp
+146,Bengaluru,35-44,2,391,North Indian,Dinner,0,0,Direct App
+147,Bengaluru,25-34,5,269,South Indian,Dinner,1,0,WhatsApp
+148,Bengaluru,35-44,3,360,South Indian,Lunch,0,0,Direct App
+149,Bengaluru,18-24,4,327,South Indian,Late Night,0,1,Swiggy
+150,Bengaluru,35-44,2,404,Healthy,Dinner,1,1,Zomato
+151,Bengaluru,25-34,4,399,Fast Food,Lunch,0,1,Zomato
+152,Bengaluru,25-34,3,400,Fast Food,Late Night,0,0,Direct App
+153,Bengaluru,35-44,2,461,South Indian,Breakfast,1,0,Zomato
+154,Bengaluru,35-44,2,321,South Indian,Late Night,0,0,Zomato
+155,Bengaluru,18-24,6,315,Chinese,Late Night,1,1,Direct App
+156,Bengaluru,35-44,1,264,North Indian,Dinner,1,0,WhatsApp
+157,Bengaluru,45-54,3,507,South Indian,Late Night,1,0,Swiggy
+158,Bengaluru,25-34,4,373,Fast Food,Dinner,0,1,Direct App
+159,Bengaluru,18-24,4,197,North Indian,Lunch,1,0,Zomato
+160,Bengaluru,25-34,4,262,Chinese,Dinner,1,1,Swiggy
+161,Bengaluru,18-24,5,232,South Indian,Late Night,0,0,Zomato
+162,Bengaluru,25-34,4,435,Continental,Lunch,0,0,Zomato
+163,Bengaluru,35-44,2,399,Healthy,Dinner,0,1,Direct App
+164,Bengaluru,18-24,5,321,Chinese,Lunch,1,1,Swiggy
+165,Bengaluru,45-54,3,367,Healthy,Lunch,0,0,Direct App
+166,Bengaluru,18-24,3,355,Healthy,Lunch,0,1,Swiggy
+167,Bengaluru,18-24,2,369,Continental,Lunch,1,0,Zomato
+168,Bengaluru,25-34,3,319,South Indian,Late Night,1,1,Swiggy
+169,Bengaluru,18-24,3,233,Continental,Late Night,0,1,Swiggy
+170,Bengaluru,25-34,4,249,North Indian,Breakfast,1,0,Direct App
+171,Bengaluru,18-24,5,367,North Indian,Lunch,0,0,Swiggy
+172,Bengaluru,25-34,3,354,Chinese,Dinner,0,0,Swiggy
+173,Bengaluru,35-44,3,341,Fast Food,Late Night,0,1,Swiggy
+174,Bengaluru,18-24,4,260,South Indian,Dinner,0,0,WhatsApp
+175,Bengaluru,18-24,4,205,Fast Food,Breakfast,0,0,Direct App
+176,Bengaluru,25-34,4,362,South Indian,Dinner,0,0,Swiggy
+177,Bengaluru,35-44,4,471,Fast Food,Dinner,1,0,WhatsApp
+178,Bengaluru,35-44,4,307,Healthy,Dinner,0,1,Direct App
+179,Bengaluru,25-34,4,335,South Indian,Dinner,0,1,Swiggy
+180,Bengaluru,18-24,6,203,Chinese,Breakfast,1,0,Zomato
+181,Bengaluru,25-34,3,269,Chinese,Dinner,0,0,Direct App
+182,Bengaluru,35-44,1,330,Chinese,Late Night,1,0,Direct App
+183,Bengaluru,25-34,3,332,Chinese,Lunch,0,1,Zomato
+184,Bengaluru,35-44,3,558,Chinese,Lunch,0,0,Zomato
+185,Bengaluru,35-44,3,325,Continental,Late Night,1,1,Swiggy
+186,Bengaluru,25-34,3,361,Fast Food,Dinner,0,0,Direct App
+187,Bengaluru,45-54,0,621,North Indian,Lunch,0,1,Swiggy
+188,Bengaluru,18-24,5,227,North Indian,Dinner,1,0,WhatsApp
+189,Bengaluru,25-34,2,435,South Indian,Lunch,0,1,Swiggy
+190,Bengaluru,35-44,2,497,Fast Food,Lunch,0,0,WhatsApp
+191,Bengaluru,25-34,2,269,Chinese,Dinner,0,1,Swiggy
+192,Bengaluru,25-34,4,323,Fast Food,Lunch,0,0,Direct App
+193,Bengaluru,18-24,4,303,Chinese,Dinner,0,0,Zomato
+194,Bengaluru,35-44,1,366,South Indian,Dinner,0,0,WhatsApp
+195,Bengaluru,18-24,4,296,Fast Food,Dinner,0,1,Direct App
+196,Bengaluru,18-24,5,174,North Indian,Late Night,0,1,Direct App
+197,Bengaluru,25-34,3,294,Fast Food,Dinner,0,0,Swiggy
+198,Bengaluru,45-54,2,645,Continental,Lunch,0,1,Direct App
+199,Bengaluru,18-24,4,362,South Indian,Late Night,0,0,WhatsApp
+200,Bengaluru,35-44,4,546,South Indian,Dinner,1,0,Swiggy
+201,Bengaluru,25-34,3,402,Fast Food,Lunch,0,1,Zomato
+202,Bengaluru,18-24,5,355,North Indian,Lunch,0,1,Swiggy
+203,Bengaluru,18-24,3,308,Chinese,Dinner,1,1,WhatsApp
+204,Bengaluru,25-34,5,170,Fast Food,Late Night,1,0,Direct App
+205,Bengaluru,18-24,3,120,Chinese,Breakfast,0,0,Swiggy
+206,Bengaluru,25-34,3,380,Chinese,Breakfast,0,0,Direct App
+207,Bengaluru,18-24,6,249,Healthy,Late Night,0,0,WhatsApp
+208,Bengaluru,25-34,4,348,Fast Food,Late Night,0,1,Zomato
+209,Bengaluru,25-34,3,387,North Indian,Dinner,0,0,Direct App
+210,Bengaluru,45-54,1,236,Fast Food,Breakfast,0,1,WhatsApp
+211,Bengaluru,25-34,3,354,South Indian,Dinner,1,0,Direct App
+212,Bengaluru,25-34,5,197,Fast Food,Breakfast,0,0,WhatsApp
+213,Bengaluru,25-34,3,313,Fast Food,Dinner,1,1,Direct App
+214,Bengaluru,18-24,3,294,Healthy,Dinner,0,1,WhatsApp
+215,Bengaluru,18-24,5,239,North Indian,Dinner,0,1,Direct App
+216,Bengaluru,35-44,4,349,Healthy,Dinner,1,1,Swiggy
+217,Bengaluru,25-34,3,279,South Indian,Dinner,0,0,Zomato
+218,Bengaluru,25-34,3,272,North Indian,Dinner,1,0,Direct App
+219,Bengaluru,35-44,1,361,Fast Food,Lunch,1,1,Swiggy
+220,Bengaluru,25-34,4,125,Fast Food,Late Night,0,0,Zomato
+221,Bengaluru,35-44,2,384,Healthy,Dinner,0,0,WhatsApp
+222,Bengaluru,25-34,4,422,Continental,Dinner,0,1,WhatsApp
+223,Bengaluru,18-24,5,216,Continental,Lunch,1,1,Zomato
+224,Bengaluru,25-34,3,369,Continental,Late Night,0,0,WhatsApp
+225,Bengaluru,25-34,3,215,North Indian,Dinner,0,1,Direct App
+226,Bengaluru,18-24,6,238,South Indian,Dinner,1,1,Swiggy
+227,Bengaluru,25-34,3,133,South Indian,Dinner,1,0,WhatsApp
+228,Bengaluru,18-24,5,188,Healthy,Late Night,1,1,WhatsApp
+229,Bengaluru,18-24,6,338,South Indian,Dinner,1,0,Swiggy
+230,Bengaluru,25-34,3,238,Fast Food,Breakfast,0,0,Swiggy
+231,Bengaluru,25-34,2,337,Fast Food,Late Night,0,1,WhatsApp
+232,Bengaluru,25-34,3,199,North Indian,Late Night,0,0,WhatsApp
+233,Bengaluru,18-24,3,184,South Indian,Lunch,0,0,WhatsApp
+234,Bengaluru,18-24,6,314,Chinese,Late Night,0,1,Zomato
+235,Bengaluru,25-34,3,319,North Indian,Lunch,0,0,Zomato
+236,Bengaluru,25-34,5,406,Continental,Breakfast,0,0,Swiggy
+237,Bengaluru,25-34,3,454,Fast Food,Dinner,1,0,Swiggy
+238,Bengaluru,25-34,3,263,South Indian,Breakfast,0,0,Direct App
+239,Bengaluru,18-24,5,168,South Indian,Lunch,0,1,WhatsApp
+240,Bengaluru,45-54,0,523,North Indian,Dinner,0,1,WhatsApp
+241,Bengaluru,18-24,4,268,Healthy,Lunch,1,0,Direct App
+242,Bengaluru,25-34,3,299,Chinese,Late Night,0,1,Zomato
+243,Bengaluru,25-34,3,266,North Indian,Late Night,0,0,Direct App
+244,Bengaluru,25-34,3,284,Chinese,Dinner,1,0,Zomato
+245,Bengaluru,25-34,3,273,Continental,Dinner,0,1,WhatsApp
+246,Bengaluru,18-24,2,307,Healthy,Dinner,0,0,Swiggy
+247,Bengaluru,25-34,4,312,Chinese,Lunch,1,0,WhatsApp
+248,Bengaluru,25-34,4,343,Healthy,Breakfast,0,1,Direct App
+249,Bengaluru,25-34,3,274,North Indian,Dinner,0,0,Zomato
+250,Bengaluru,45-54,2,442,Fast Food,Lunch,1,0,Swiggy

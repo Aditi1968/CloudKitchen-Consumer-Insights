@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: toi-consumer-insights
+    env: python
+    plan: free
+    buildCommand: pip install -r app/requirements.txt
+    startCommand: streamlit run app/streamlit_app.py --server.port $PORT --server.address 0.0.0.0
+    autoDeploy: true

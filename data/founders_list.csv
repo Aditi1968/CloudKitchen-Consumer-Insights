@@ -1,0 +1,29 @@
+founder_id,name,company,email,segment_focus,status,preferred_mode,meeting_date
+1,Sai Sen,HealthHub Labs,sai.sen@healthhublabs.com,Premium,contacted,Zoom,
+2,Arjun Mukherjee,HealthHub Labs,arjun.mukherjee@healthhublabs.com,Premium,contacted,Zoom,
+3,Arjun Kapoor,HealthHub Labs,arjun.kapoor@healthhublabs.com,Late Night,contacted,Phone,
+4,Aditya Sharma,CurryCrate Labs,aditya.sharma@currycratelabs.com,Premium,contacted,In-person,
+5,Aditya Mehta,MasalaMate Labs,aditya.mehta@masalamatelabs.com,Family,meeting scheduled,Google Meet,2025-10-17
+6,Sara Khan,MealMint Labs,sara.khan@mealmintlabs.com,Budget,not contacted,Zoom,
+7,Reyansh Mukherjee,KitchenKart Labs,reyansh.mukherjee@kitchenkartlabs.com,Healthy,meeting scheduled,Phone,2025-09-30
+8,Pari Bhat,CrunchCart Labs,pari.bhat@crunchcartlabs.com,Late Night,meeting scheduled,Google Meet,2025-10-20
+9,Aarohi Kapoor,FlavorForge Labs,aarohi.kapoor@flavorforgelabs.com,Late Night,not contacted,Google Meet,
+10,Sai Kulkarni,SpiceBox Labs,sai.kulkarni@spiceboxlabs.com,Budget,contacted,Phone,
+11,Pari Reddy,UrbanPlates Labs,pari.reddy@urbanplateslabs.com,Budget,meeting scheduled,Zoom,2025-09-29
+12,Sara Kapoor,VegVibe Labs,sara.kapoor@vegvibelabs.com,Family,meeting scheduled,Zoom,2025-09-16
+13,Vivaan Mukherjee,MidnightMorsel Labs,vivaan.mukherjee@midnightmorsellabs.com,Premium,meeting scheduled,Phone,2025-09-16
+14,Anika Gowda,TiffinTales Labs,anika.gowda@tiffintaleslabs.com,Healthy,contacted,Zoom,
+15,Aadhya Reddy,CrunchCart Labs,aadhya.reddy@crunchcartlabs.com,Late Night,not contacted,Phone,
+16,Aarohi Kapoor,CrunchCart Labs,aarohi.kapoor@crunchcartlabs.com,Premium,meeting scheduled,Phone,2025-09-22
+17,Ishaan Reddy,CrunchCart Labs,ishaan.reddy@crunchcartlabs.com,Premium,contacted,Zoom,
+18,Reyansh Shetty,TasteTrail Labs,reyansh.shetty@tastetraillabs.com,Premium,not contacted,Phone,
+19,Vihaan Sharma,KitchenKart Labs,vihaan.sharma@kitchenkartlabs.com,Late Night,not contacted,Phone,
+20,Anika Bose,UrbanPlates Labs,anika.bose@urbanplateslabs.com,Premium,contacted,In-person,
+21,Kabir Chopra,Byte&Bite Labs,kabir.chopra@byteandbitelabs.com,Family,not contacted,In-person,
+22,Myra Iyer,CloudBite Labs,myra.iyer@cloudbitelabs.com,Budget,not contacted,In-person,
+23,Myra Khan,QuickQitchen Labs,myra.khan@quickqitchenlabs.com,Family,contacted,Phone,
+24,Aarohi Das,TiffinTales Labs,aarohi.das@tiffintaleslabs.com,Late Night,meeting scheduled,Zoom,2025-09-29
+25,Myra Menon,MasalaMate Labs,myra.menon@masalamatelabs.com,Healthy,contacted,Google Meet,
+26,Vihaan Chopra,FitFeast Labs,vihaan.chopra@fitfeastlabs.com,Late Night,meeting scheduled,In-person,2025-09-23
+27,Aanya Shetty,QuickQitchen Labs,aanya.shetty@quickqitchenlabs.com,Budget,not contacted,Google Meet,
+28,Aadhya Mukherjee,Byte&Bite Labs,aadhya.mukherjee@byteandbitelabs.com,Healthy,meeting scheduled,In-person,2025-09-09

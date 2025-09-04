@@ -6,6 +6,10 @@ import plotly.express as px
 from pathlib import Path
 from src.story_engine import story_recommendations
 
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
 st.set_page_config(page_title="Consumer Insights – Cloud Kitchens (Bengaluru)", layout="wide")
 
 BASE = Path(__file__).resolve().parents[1]
